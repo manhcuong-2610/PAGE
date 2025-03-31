@@ -6,7 +6,7 @@
 
 main:
   - title: "Research"
-    url: /talks/    
+    url: /research/    
 
   - title: "CV"
     url: /files/CV.pdf
@@ -16,7 +16,10 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
+
+#  - title: "Portfolio"
+#    url: /portfolio/
 
 #  - title: "Talks"
 #    url: /talks/    
