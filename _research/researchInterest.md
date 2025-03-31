@@ -3,7 +3,6 @@ title: "Research Interests"
 layout: single
 permalink: /research/
 ---
-## Research Interests
 
 - Financial Econometrics
 - Forecasting
