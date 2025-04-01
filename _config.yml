@@ -13,8 +13,8 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Manh Cuong Nguyen"
 description              : &description "Personal description"
-url                      : "https://manhcuong-2610.github.io/"
-baseurl                  : "manhcuong.github.io/" # the subpath of your site, e.g. "/blog"
+url                      : "https://manhcuong-2610.github.io/manhcuong.github.io/"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://manhcuong-2610.github.io/manhcuong.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
