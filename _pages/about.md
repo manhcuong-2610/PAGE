@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello! (Xin chào)"
 author_profile: true
 redirect_from: 
   - /about/
