@@ -1,10 +1,19 @@
 ---
 title: "Access to credit for real estate transactions in emerging markets - Empirical evidence from Vietnam"
+collection: publications
 category: manuscripts
-excerpt: "The Anh Khuc, Manh Cuong Nguyen, Hoang Anh Vu, Quoc Tien Nguyen"
-collection: "https://doi.org/10.38203/jiem.024.1.0081"
 permalink: /publications/paper1
 date: 2024-03-28
 venue: "Journal of International Economics and Management"
+authors: "The Anh Khuc, Manh Cuong Nguyen, Hoang Anh Vu, Quoc Tien Nguyen"
+
+# Make the title clickable → link to your paper's DOI
+url: "https://doi.org/10.38203/jiem.024.1.0081"
+
+# Link for “Download Paper” button
 paperurl: "/manhcuong.github.io/files/paper1.pdf"
+
+# The excerpt is typically displayed in the publication list,
+# but here we’ll just reuse the authors as a short snippet.
+excerpt: "The Anh Khuc, Manh Cuong Nguyen, Hoang Anh Vu, Quoc Tien Nguyen"
 ---
