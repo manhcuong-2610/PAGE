@@ -3,9 +3,16 @@ title: "Access to credit for real estate transactions in emerging markets - Empi
 collection: publications
 category: manuscripts
 permalink: /publications/paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: "This paper is about the number 1. The number 2 is left for future work."
 date: 2024-03-28
-venue: 'Journal of International Economics and Management'
-paperurl: '/manhcuong.github.io/files/paper1.pdf'
-citation: 'Khuc, T. A., Nguyen, M. C., Nguyen, H. A., Vu, H. A., & Nguyen, Q. T. (2024). Access to credit for real estate transactions in emerging markets - Empirical evidence from Vietnam. Journal of International Economics and Management, 24(1), 74-88. https://doi.org/10.38203/jiem.024.1.0081'
+venue: "Journal of International Economics and Management"
+
+# Link the title to the paper's DOI
+url: "https://doi.org/10.38203/jiem.024.1.0081"
+
+# Link to your local PDF (for “Download Paper”)
+paperurl: "/manhcuong.github.io/files/paper1.pdf"
+
+# Only authors—no full citation
+authors: "Khuc The Anh, Nguyen Manh Cuong, Nguyen Ha Anh, Vu Hoang Anh, & Nguyen Quoc Tien"
 ---
