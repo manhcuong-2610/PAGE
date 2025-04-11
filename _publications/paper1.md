@@ -2,7 +2,7 @@
 title: "Access to credit for real estate transactions in emerging markets - Empirical evidence from Vietnam"
 collection: publications
 category: manuscripts
-permalink: /publications/paper1
+permalink: /publications/paper1.md
 date: 2024-03-28
 venue: "Journal of International Economics and Management"
 
