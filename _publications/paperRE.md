@@ -1,7 +1,7 @@
 ---
 title: "Access to credit for real estate transactions in emerging markets - Empirical evidence from Vietnam"
 collection: publications
-permalink: /publications/paper1/
+permalink: /publications/paperRE/
 excerpt: "The Anh Khuc, Manh Cuong Nguyen, Hoang Anh Vu, Quoc Tien Nguyen"
 date: 2024-03-28
 venue: "Journal of International Economics and Management"
