@@ -211,7 +211,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:path/
