@@ -1,9 +1,9 @@
 ---
 title: "Museum records classification"
 collection: projects
-permalink: /projects/project1/
+permalink: /projects/projectTA/
 date: 2025-02-28
-excerpt: "Deep Learning project"
+excerpt: "Text analytics project"
 notebook_url: "/PAGE/files/LSTM.html"
 ---
 ## Overview
