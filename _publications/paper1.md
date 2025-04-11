@@ -7,7 +7,6 @@ date: 2024-03-28
 venue: "Journal of International Economics and Management"
 paperurl: "/PAGE/files/paper1.pdf"
 ---
-
 ## Abstract
 The growing disparity between the wealthy and the poor has become more evident than ever, as reflected in residents’ housing conditions. 
 Meanwhile, real estate credit is mainly directed toward the high-end segment, but mortgage cash flow for social and commercial housing in the low-mid range segment is still insufficient. 
