@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Manh Cuong Nguyen"
 description              : &description "Personal description"
 url                      : "https://manhcuong-2610.github.io"   # The desired site URL
-baseurl                  : ""                              # No subpath for a user site
+baseurl                  : "/PAGE"                              # No subpath for a user site
 repository               : "https://github.com/manhcuong-2610/PAGE"    # Reflects the user site address
 
 # Site Author - The following control what appear as part of the author content on the side bar.
