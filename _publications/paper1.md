@@ -5,11 +5,8 @@ category: manuscripts
 permalink: /publications/paper1.md
 date: 2024-03-28
 venue: "Journal of International Economics and Management"
-
-# Link for “Download Paper” button
 paperurl: "/PAGE/files/paper1.pdf"
-
-excerpt: "The Anh Khuc, Manh Cuong Nguyen, Hoang Anh Vu, Quoc Tien Nguyen"
+authors: "The Anh Khuc, Manh Cuong Nguyen, Hoang Anh Vu, Quoc Tien Nguyen"
 ---
 ## Abstract
 The growing disparity between the wealthy and the poor has become more evident than ever, as reflected in residents’ housing conditions. 
