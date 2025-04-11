@@ -1,13 +1,13 @@
 ---
 title: "Access to credit for real estate transactions in emerging markets - Empirical evidence from Vietnam"
 collection: publications
-category: manuscripts
 permalink: /publications/paper1.md
+excerpt: "The Anh Khuc, Manh Cuong Nguyen, Hoang Anh Vu, Quoc Tien Nguyen"
 date: 2024-03-28
 venue: "Journal of International Economics and Management"
 paperurl: "/PAGE/files/paper1.pdf"
-authors: "The Anh Khuc, Manh Cuong Nguyen, Hoang Anh Vu, Quoc Tien Nguyen"
 ---
+
 ## Abstract
 The growing disparity between the wealthy and the poor has become more evident than ever, as reflected in residents’ housing conditions. 
 Meanwhile, real estate credit is mainly directed toward the high-end segment, but mortgage cash flow for social and commercial housing in the low-mid range segment is still insufficient. 
@@ -20,6 +20,5 @@ Specifically, lending institutions should improve the quality of their services 
 The government should enact a stronger legal framework to address public housing demand and efficiently regulate the real estate market.
 
 ## Additional Info
-
 - **DOI**: [https://doi.org/10.38203/jiem.024.1.0081](https://doi.org/10.38203/jiem.024.1.0081)
 - **Keywords**: Attitude, Credit accessibility, Real estate, Vietnam
