@@ -1,0 +1,22 @@
+---
+title: "Perceived risks of financial misconduct and fintech in crowdfunding of Vietnamese individual investors"
+collection: publications
+category: manuscripts
+permalink: /publications/paper2
+date: 2024-11-26
+venue: "Emerging Markets Review"
+url: "https://doi.org/10.1016/j.ememar.2024.101229"
+paperurl: "/PAGE/files/paper2.pdf"
+excerpt: "Anh The Khuc, Phuong Thi Hoai Nguyen, Manh Cuong Nguyen, Ha Thu Le"
+---
+## Abstract
+Crowdfunding is a method of funding a project or venture by collecting small amounts of money from a large number of people – typically via the Internet – which presents both opportunities for financial inclusion and risks to financial consumers. 
+This study aimed to investigate the influence of perceived risks of financial misconduct and fintech on the intentions of individual investors to participate in crowdfunding. 
+The authors employed a quantitative method to gather approximately 900 survey responses, which were subsequently collated for further analysis. 
+The findings indicate that the perceived risk of financial misconduct is a second-order factor that is reflected by four first-order factors: credibility risk, market risk, asymmetric information risk, and financial risk. 
+Similarly, the perceived risk of fintech is a second-order factor that is reflected by three first-order factors: security risk, time-consuming risk, and expense risk. 
+The study reveals that the perceived risk of financial misconduct negatively affects the intention to participate in crowdfunding, while the perceived risk of fintech positively influences the intention to participate. 
+Additionally, the perceived risk of fintech also positively impacts the perceived risk of financial misconduct. Based on these research results, this study proposes policy implications for project owners, investors and regulatory agencies to enhance the quality of crowdfunding platforms. 
+These recommendations aim to protect users from threats and risks associated with using these platforms, thereby improving the overall effectiveness and safety of the crowdfunding environment.
+
+## Additional 
