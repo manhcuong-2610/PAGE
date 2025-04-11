@@ -1,7 +1,7 @@
 ---
 title: "Perceived risks of financial misconduct and fintech in crowdfunding of Vietnamese individual investors"
 collection: publications
-permalink: /publications/2025-EMR/
+permalink: /publications/paper2/
 excerpt: "Anh The Khuc, Phuong Thi Hoai Nguyen, Manh Cuong Nguyen, Ha Thu Le"
 date: 2025-01-01
 venue: "Emerging Markets Review"
