@@ -1,8 +1,8 @@
 ---
 title: "Museum records classification"
-collection: projects
-permalink: /projects/projectTA/
 date: 2025-02-28
+collection: projects
+permalink: /projects/2025-02-28-projectTA/
 excerpt: "Text analytics project"
 notebook_url: "/PAGE/files/Text.html"
 ---
