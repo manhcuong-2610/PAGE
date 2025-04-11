@@ -1,13 +1,11 @@
 ---
 title: "Perceived risks of financial misconduct and fintech in crowdfunding of Vietnamese individual investors"
 collection: publications
-category: manuscripts
 permalink: /publications/paper2
+excerpt: "Anh The Khuc, Phuong Thi Hoai Nguyen, Manh Cuong Nguyen, Ha Thu Le"
 date: 2024-11-26
 venue: "Emerging Markets Review"
-url: "https://doi.org/10.1016/j.ememar.2024.101229"
 paperurl: "/PAGE/files/paper2.pdf"
-excerpt: "Anh The Khuc, Phuong Thi Hoai Nguyen, Manh Cuong Nguyen, Ha Thu Le"
 ---
 ## Abstract
 Crowdfunding is a method of funding a project or venture by collecting small amounts of money from a large number of people – typically via the Internet – which presents both opportunities for financial inclusion and risks to financial consumers. 
@@ -19,4 +17,6 @@ The study reveals that the perceived risk of financial misconduct negatively aff
 Additionally, the perceived risk of fintech also positively impacts the perceived risk of financial misconduct. Based on these research results, this study proposes policy implications for project owners, investors and regulatory agencies to enhance the quality of crowdfunding platforms. 
 These recommendations aim to protect users from threats and risks associated with using these platforms, thereby improving the overall effectiveness and safety of the crowdfunding environment.
 
-## Additional 
+## Additional Info
+- **DOI**: [https://doi.org/10.1016/j.ememar.2024.101229](https://doi.org/10.1016/j.ememar.2024.101229)
+- **Keywords**: Crowdfunding, Financial misconduct, Fintech, Perceived risk
