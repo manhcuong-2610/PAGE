@@ -2,7 +2,7 @@
 title: "Stock market prediction"
 date: 2025-03-28
 collection: projects
-permalink: /projects/2025-03-28-project1/
+permalink: /projects/2025-03-28-projectDL/
 excerpt: "Deep Learning project"
 notebook_url: "/PAGE/files/LSTM.html"
 ---
