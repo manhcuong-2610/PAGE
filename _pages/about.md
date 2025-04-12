@@ -25,7 +25,7 @@ redirect_from:
   <div style="flex: 1 1 300px;">
     <h2>Hello! (Xin chào)</h2>
     <p>
-      My name is <strong>Manh-Cuong Nguyen</strong>. I’m a Master’s student in 
+      My name is Manh-Cuong Nguyen. I’m a Master’s student in 
       Data Analytics for Economics and Finance at the University of Glasgow (U.K.).
     </p>
     <p>
@@ -47,3 +47,9 @@ redirect_from:
     </figure>
   </div>
 </div>
+
+<p>
+  I also participate in a mini-project with my friend. Check out our work at 
+  <a href="https://sites.google.com/view/msdsimpact/about?authuser=0" target="_blank">MSDS</a>.
+</p>
+
