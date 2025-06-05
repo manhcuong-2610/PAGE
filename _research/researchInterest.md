@@ -8,4 +8,3 @@ permalink: /research/
 - Forecasting
 - Bayesian statistics
 - Deep Learning
-- Text analytics
