@@ -4,7 +4,7 @@ date: 2025-06-19
 collection: projects
 permalink: /projects/2025-06-19-projectMDBs/
 excerpt: "Text analytics project"
-notebook_url: "/PAGE/files/Text.html"
+notebook_url: "/PAGE/files/MDBs.html"
 ---
 ## Overview
 This study exploits a dataset on 17 multilateral development banks (MDBs) from 2016 to 2024. The dataset encompasses a comprehensive suite of financial and operational indicators, including capital adequacy ratios (CAR), non-performing loan ratios (NPR), provisioning levels, cost‐income ratios, liquidity coverage, net interest margins, and profitability measures (ROAA, ROAE, NIM). 
