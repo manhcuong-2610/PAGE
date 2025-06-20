@@ -3,7 +3,7 @@ title: "Multilateral Development Banks (MDBs) profitability"
 date: 2025-06-19
 collection: projects
 permalink: /projects/2025-06-19-projectMDBs/
-excerpt: "Text analytics project"
+excerpt: "National Economics University project"
 notebook_url: "/PAGE/files/MDBs.html"
 ---
 ## Overview
